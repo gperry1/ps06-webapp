@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Our data is called “Freedom in the World” and was originally accessed through the open
+- My data is called “Freedom in the World” and was originally accessed through the open
 source data project “tidytuesday”
 - The dataset itself was created by Arthur Cheib, but the data he collected is originally
 from the United Nations and Freedom House
